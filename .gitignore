@@ -59,3 +59,17 @@ typings/
 
 # next.js build output
 .next
+
+#CAP Generate Files
+gen/
+.gen/
+node_modules/
+target/
+*.db
+.DS_Store
+_out
+.che/
+.cds_gen.log
+*.orig
+**/edmx/*
+default-env.json
